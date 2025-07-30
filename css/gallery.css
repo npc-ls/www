@@ -1,0 +1,58 @@
+body {
+  padding-top: 50px;
+}
+.gallery-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.btn-padding {
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-bottom: 3px;
+  margin-top: 3px;
+}
+
+.dir-view {
+  text-align: left;
+  background-color: #EDEDED;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 15px;
+  border-color:#d2d2d2;
+  border-width: 5px;
+  box-shadow:0 1px 0 #cfcfcf;
+  margin-bottom: 1em;
+}
+
+.gallery-zoom {
+  font-family: 'lg';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+
+
+.form-login {
+}
+
+.fit {
+  width: 100%;
+  padding-top: 4px;
+}
+
+imgdiv {
+}
+
+img {
+  image-orientation: from-image;
+}
+
